@@ -1,5 +1,4 @@
-### Hi there 👋
-[![HitCount](http://hits.dwyl.com/tandav/tandav.svg)](http://hits.dwyl.com/tandav/tandav)
+### Hi there 👋 [![HitCount](http://hits.dwyl.com/tandav/tandav.svg)](http://hits.dwyl.com/tandav/tandav)
 
 ![](going-meta-bro.png)
 
