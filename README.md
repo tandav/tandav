@@ -1,6 +1,6 @@
-### Hi there 👋 [![HitCount](http://hits.dwyl.com/tandav/tandav.svg)](http://hits.dwyl.com/tandav/tandav)
+[![HitCount](http://hits.dwyl.com/tandav/tandav.svg)](http://hits.dwyl.com/tandav/tandav)
 
-<img src='https://raw.githubusercontent.com/tandav/tandav/master/going-meta-bro.png' height='300px'>
+<a href='https://tandav.github.io'><img src='https://raw.githubusercontent.com/tandav/tandav/master/going-meta-bro.png' height='300px'></a>
 
 <!--
 **tandav/tandav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
