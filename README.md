@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/tandav/tandav.svg)](http://hits.dwyl.com/tandav/tandav)
 
-<a href='https://tandav.github.io'><img src='https://raw.githubusercontent.com/tandav/tandav/master/going-meta-bro.png' height='300px'></a>
+<a href='https://tandav.github.io'><img src='https://raw.githubusercontent.com/tandav/tandav/master/going-meta-bro.png' height='250px'></a>
 
 <!--
 **tandav/tandav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
